@@ -1,0 +1,19 @@
+variable,n_distinct,rho,p,note
+cur_speed_sw,5,-0.46381682852195877,0.3541642984362303,tested
+cur_along_sw,5,-0.057977103565244846,0.9131317851623264,tested
+sst_sw,5,-0.5797710356524484,0.22778395671501606,tested
+hs_mean_sw,3,,,not tested – zones share grid cells
+hs_p90_sw,3,,,not tested – zones share grid cells
+Pl_net_sw,3,,,not tested – zones share grid cells
+cur_speed_ne,5,0.17393131069573456,0.7417339277316278,tested
+cur_along_ne,5,0.46381682852195877,0.3541642984362303,tested
+sst_ne,5,-0.23190841426097938,0.658373571260927,tested
+hs_mean_ne,3,,,not tested – zones share grid cells
+hs_p90_ne,2,,,not tested – zones share grid cells
+Pl_net_ne,3,,,not tested – zones share grid cells
+cur_speed_ann,5,-0.5217939320872036,0.2883432338003935,tested
+cur_along_ann,5,0.0,1.0,tested
+sst_ann,5,-0.753702346348183,0.08352328137325983,tested
+hs_mean_ann,3,,,not tested – zones share grid cells
+hs_p90_ann,3,,,not tested – zones share grid cells
+Pl_net_ann,3,,,not tested – zones share grid cells
